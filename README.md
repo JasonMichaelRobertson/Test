@@ -1,2 +1,2 @@
 # Test
-Test because testing is importatn
+Test because testing is important
